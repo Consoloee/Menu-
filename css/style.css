@@ -1,0 +1,131 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f3f3f3;
+    font-family: 'Poppins',sans-serif;
+}
+.menu{
+    padding: 0;
+}
+.heading{
+    background-image: url(./img/3.jpg);
+    
+    background-size: cover;
+    background-position: center center;
+    	text-align: center;
+
+	width: 100%;
+	height: auto;
+	background-size: cover;
+	background-attachment:scroll;
+	position: relative;
+	overflow: hidden;
+    margin-bottom: 25px;
+    border-radius: 0 0 85% 85% / 30%;
+
+}
+
+.overlay{
+	padding: 50px;
+	color: #FFF;
+	text-shadow: 1px 1px 1px #333;
+    background: linear-gradient(to right, rgba(21, 87, 210, 0.9) 0% 100%);
+}
+
+
+.heading>h1{
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: 10px;
+    margin-bottom: 50px;
+}
+.heading>h3{
+    font-weight: 600;
+    font-size: 22px;
+    letter-spacing: 5px;
+}
+
+
+.padding{
+    padding: 10px 35px;
+}
+
+.col-lg-4{
+    padding:10px !important; 
+}
+
+.food-items{
+    position: relative;
+    border-radius: 15px;
+    box-shadow: 0 0 12px rgb(0 0 0 / 26%);
+    margin-bottom: 20px;
+}
+.food-items img{
+    position: relative;
+    width: 100%;
+    border-radius: 15px 15px 0 0;
+}
+
+.details{
+    padding: 20px 10px;
+    
+}
+
+.details-sub>h5{
+    font-weight: bold;
+}
+
+
+.name{
+    text-align: center;
+}
+
+.price{
+    text-align: center;
+    color: #fff;
+    background-color: #1557D2;
+    border-radius: 5px;
+
+}
+.details>p{
+    color: #6f6f6f;
+    font-size: 15px;
+    line-height: 28px;
+    font-weight: 400;
+    align-self: stretch;
+}
+
+
+
+
+/*  */
+
+.food-items img{
+    padding-top: 10px;
+}
+
+
+body{
+    background-color: #ffffff !important;
+}
+
+
+.sub-title{
+    margin-top: 20px;
+}
+
+
+
+
+.href{
+    text-decoration: none;
+    color: #084ed1;
+}
+
+
+.href h1{
+    color:bisque;
+}
